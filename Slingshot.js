@@ -5,7 +5,7 @@ class Slingshot {
         var options = {
             bodyA:bodyA,
             pointB:pointB,
-            length:height-250
+            length:500
         }
 
         this.pointB = pointB;
