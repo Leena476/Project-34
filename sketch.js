@@ -58,10 +58,10 @@ function draw(){
     text("Newton's Cradle!",10,70);
     textSize(15);
     text("To drag the first bob with the mouse, press 1.",10,height-81);
-    text("To drag the first bob with the mouse, press 2.",10,height-64);
-    text("To drag the first bob with the mouse, press 3.",10,height-47);
-    text("To drag the first bob with the mouse, press 4.",10,height-30);
-    text("To drag the first bob with the mouse, press 5.",10,height-13)
+    text("To drag the second bob with the mouse, press 2.",10,height-64);
+    text("To drag the third bob with the mouse, press 3.",10,height-47);
+    text("To drag the fourth bob with the mouse, press 4.",10,height-30);
+    text("To drag the fifth bob with the mouse, press 5.",10,height-13)
     
 }
 
